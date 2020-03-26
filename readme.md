@@ -1,6 +1,6 @@
 # Dark Clock
 
-![Dark Clock](.github/logo.png 'Dark Clock')
+![Dark Clock](.github/dark-clock.png 'Dark Clock')
 
 - HTML
 - CSS3
